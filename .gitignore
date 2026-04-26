@@ -1,0 +1,36 @@
+# Credenziali e segreti - NON committare mai
+.env
+.env.local
+.env.*.local
+*.token
+credentials*
+secrets*
+
+# Settings con token reali
+settings.local.json
+settings.personal.json
+
+# Backup settings generati da setup.sh
+settings.backup.*.json
+
+# Log di setup locali
+*.setup.log
+cloud3-setup.log
+
+# Directory preesistenti non parte del kit
+MCP /
+SKILL/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Node (per eventuali script)
+node_modules/

@@ -1,0 +1,15 @@
+# Skills CORE — obbligatorie su tutte le macchine
+# Installate indipendentemente dal tier scelto
+# Formato: owner/repo@skill oppure solo nome se già in ~/.agents/skills
+
+forrestchang/andrej-karpathy-skills@karpathy-guidelines
+obra/superpowers@using-superpowers
+obra/superpowers@systematic-debugging
+obra/superpowers@test-driven-development
+obra/superpowers@writing-plans
+obra/superpowers@verification-before-completion
+obra/superpowers@requesting-code-review
+obra/superpowers@receiving-code-review
+obra/superpowers@executing-plans
+obra/superpowers@finishing-a-development-branch
+obra/superpowers@brainstorming

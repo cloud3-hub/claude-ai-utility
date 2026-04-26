@@ -1,0 +1,33 @@
+{
+  "model": "sonnet",
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(node --version)",
+      "Bash(npm *)",
+      "Bash(npx *)",
+      "Bash(bench *)",
+      "Bash(python *)",
+      "Bash(python3 *)",
+      "Bash(docker ps)",
+      "Bash(docker-compose *)",
+      "Bash(docker compose *)",
+      "Bash(psql *)",
+      "Bash(mariadb *)",
+      "Bash(redis-cli ping)",
+      "Bash(brew services list)",
+      "WebFetch(domain:docs.frappe.io)",
+      "WebFetch(domain:frappeframework.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:npmjs.com)",
+      "WebFetch(domain:pypi.org)"
+    ]
+  },
+  "enabledPlugins": {
+    "playground@claude-plugins-official": true,
+    "github@claude-plugins-official": true,
+    "context7@claude-plugins-official": true,
+    "skill-creator@claude-plugins-official": true
+  },
+  "mcpServers": {}
+}

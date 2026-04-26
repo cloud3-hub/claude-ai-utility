@@ -1,0 +1,14 @@
+# Skills DevOps / Infrastructure
+# Per chi gestisce server, infrastruttura, CI/CD
+
+github-actions
+infrastructure-terraform
+linux-hardening
+ssh-hardening
+hetzner-server
+firewall-configuration
+grafana-dashboards
+postgresql-table-design
+obra/superpowers@using-git-worktrees
+obra/superpowers@dispatching-parallel-agents
+obra/superpowers@subagent-driven-development

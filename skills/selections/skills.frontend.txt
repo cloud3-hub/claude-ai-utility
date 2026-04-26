@@ -1,0 +1,12 @@
+# Skills Frontend / React Developer
+# Per chi lavora su React, Next.js, TypeScript, UI
+
+nextjs-app-router-patterns
+shadcn-ui
+react-components
+designing-beautiful-websites
+ui-design-review
+playwright-explore-website
+html-to-pdf
+seo-optimizer
+audit-website

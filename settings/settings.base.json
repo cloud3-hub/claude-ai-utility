@@ -1,0 +1,22 @@
+{
+  "model": "sonnet",
+  "permissions": {
+    "allow": [
+      "Bash(git log*)",
+      "Bash(git status)",
+      "Bash(git diff*)",
+      "Bash(git branch*)",
+      "Bash(node --version)",
+      "Bash(npm --version)",
+      "Bash(npm run *)",
+      "Bash(npx skills *)",
+      "WebFetch(domain:docs.frappe.io)",
+      "WebFetch(domain:github.com)"
+    ]
+  },
+  "enabledPlugins": {
+    "playground@claude-plugins-official": true,
+    "github@claude-plugins-official": true,
+    "context7@claude-plugins-official": true
+  }
+}

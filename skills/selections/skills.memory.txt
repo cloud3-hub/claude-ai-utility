@@ -1,0 +1,6 @@
+# Skills Memoria Persistente (Supermemory AI)
+# Richiedono account Supermemory e configurazione API key
+# Vedi docs/mcp-setup.md per istruzioni
+
+supermemoryai/claude-supermemory@super-search
+supermemoryai/claude-supermemory@super-save

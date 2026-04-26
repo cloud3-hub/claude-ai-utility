@@ -1,0 +1,9 @@
+# Skills Frappe/ERPNext Developer
+# Per chi lavora su progetti Frappe Framework v15 o ERPNext
+
+frappe-app
+frappe-doctype
+frappe-service
+frappe-api
+bench-commands
+mysql-best-practices
