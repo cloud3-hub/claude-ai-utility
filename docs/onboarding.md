@@ -5,7 +5,7 @@
 ### 1. Clona il kit
 
 ```bash
-git clone https://github.com/cloud3srl/claude-ai-utility.git ~/Claude/claude-ai-utility
+git clone https://github.com/cloud3-hub/claude-ai-utility.git ~/Claude/claude-ai-utility
 cd ~/Claude/claude-ai-utility
 ```
 

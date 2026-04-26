@@ -5,7 +5,7 @@ Kit pronto all'uso per configurare Claude Code in modo ottimale su qualsiasi mac
 ## Quick Start
 
 ```bash
-git clone https://github.com/cloud3srl/claude-ai-utility.git
+git clone https://github.com/cloud3-hub/claude-ai-utility.git
 cd claude-ai-utility
 chmod +x setup.sh
 ./setup.sh

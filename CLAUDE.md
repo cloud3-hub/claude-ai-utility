@@ -96,6 +96,6 @@ progetto-cloud3/
 
 ## Riferimenti
 
-- Kit Claude Code: `github.com/cloud3srl/claude-ai-utility`
+- Kit Claude Code: `github.com/cloud3-hub/claude-ai-utility`
 - Docs Frappe: `docs.frappe.io`
 - Stack overflow interno: usare GitHub Issues del progetto specifico
